@@ -9,4 +9,21 @@
 - I watched all the videos of the bootcamp playlist for the week 0
 - I generated aws key credentials to use from cli.
 
-## Homework Challenges
+## Proof of work
+- **Napking**
+
+  ![TO UPLOAD]()
+  
+- **Diagram**
+
+  ![TO UPLOAD]()
+
+I didn't create the following resources with the CLI, since I have already created them when watching a previous video on the playlist from Chirak Nayyar about pricing:
+
+- **Billing Alarm**
+
+  ![](https://github.com/Dav3rs/aws-bootcamp-cruddur-2023/blob/main/journal/assets/billing-alarm-proof.png)
+
+- **Budget**
+
+  ![](https://github.com/Dav3rs/aws-bootcamp-cruddur-2023/blob/main/journal/assets/budget-proof.png)
