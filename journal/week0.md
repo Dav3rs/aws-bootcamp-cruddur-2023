@@ -8,3 +8,5 @@
 - I used EventBridge to hookup the health dashboard to sns.
 - I watched all the videos of the bootcamp playlist for the week 0
 - I generated aws key credentials to use from cli.
+
+## Homework Challenges
